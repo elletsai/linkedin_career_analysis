@@ -1,4 +1,5 @@
-# linkedin profolio keywords'
+# linkedin profolio keywords
+
 
 Aim to analysis keywords in LinkedIn profile to improve personal profile. Following shows the outline for this project:
 1. Data collection:
