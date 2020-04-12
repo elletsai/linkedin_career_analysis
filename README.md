@@ -7,8 +7,8 @@ Aim to analysis keywords in LinkedIn profile to improve personal profile. Follow
     - Reference: https://github.com/austinoboyle/scrape-linkedin-selenium
     - Create two dataframe, experience and info: <br>
     
-          1. experience includes: name, title, company, date range, location, description<br>
-          2. info includes: name, summary, skill, course, certification<br>
+          1. experience includes: name, title, company, date range, location, description
+          2. info includes: name, summary, skill, course, certification
 
 2. Data Cleaning
 
