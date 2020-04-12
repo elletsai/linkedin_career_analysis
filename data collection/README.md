@@ -1,0 +1,3 @@
+- Collect data from Linkedin using people 
+- Scrape by job titles: data analyst, data scientist, data engineer, software engineer
+- Get profolio info
