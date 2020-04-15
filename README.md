@@ -10,6 +10,9 @@ Aim to analysis keywords in LinkedIn profile to improve personal profile. Follow
           1. experience includes: name, title, company, date range, location, description
           2. info includes: name, summary, skill, course, certification
 
+| | name | info |
+| --- | --- |
+
 2. Data Cleaning
 
   
