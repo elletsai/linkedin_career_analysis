@@ -13,11 +13,22 @@ Aim to analysis keywords in LinkedIn profile to improve personal profile. Follow
 
 
 
-| Target Jobs <td colspan=2>Name  <td colspan=2>Info
-| -
-| One    | Two | Three | Four    | Five  
-<!-- | Data Analyst | :white_check_mark: | |   -->
-
+<table>
+    <caption style="text-align:Center">Scrape Status</caption>
+<tr>
+<td colspan=1>Target Title <td colspan=2>Name  <td colspan=1>Info
+<tr>
+<td colspan=1> <td colspan=1>Meng<td colspan=1>Elle <td colspan=1>
+<tr>
+<td colspan=1>Data Analyst <td colspan=1>&#x274C; <td colspan=1>&#9989; <td colspan=1>&#x274C;
+<tr>
+<td colspan=1>Data Engineer <td colspan=1>&#9989; <td colspan=1>&#9989; <td colspan=1> Doing
+<tr>
+<td colspan=1>Data Scientist <td colspan=1> &#x274C;<td colspan=1>&#9989; <td colspan=1> &#x274C;
+<tr>
+<td colspan=1>Software Engineer <td colspan=1>&#9989;<td colspan=1>Doing <td colspan=1>Doing
+ 
+</table>
 2. Data Cleaning
 
   
