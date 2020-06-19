@@ -1,7 +1,7 @@
 # linkedin portfolio keywords
 
 
-Aim to analysis keywords in LinkedIn profile to improve personal profile. Following shows the outline for this project:
+Aim to analysis keywords in LinkedIn profile to improve personal portfolio. Utilize text mining to detect most common techniques in data science related field required. Therefore provide a basic knowledge on essential skills in industry. Following shows the outline for this project:
 1. Data collection:
     - Use selenium and and Beautiful Soup to scrape data from LinkedIn
     - Reference: https://github.com/austinoboyle/scrape-linkedin-selenium
@@ -31,5 +31,5 @@ Aim to analysis keywords in LinkedIn profile to improve personal profile. Follow
 </table>
 
 2. Data Cleaning
-3. Text Mining 
+3. Text Mining on most frequent technical skills for data scientist / data analayst and data engineer positions. Also, mine the **verb** that candidate used to implement on personal resume. 
   
