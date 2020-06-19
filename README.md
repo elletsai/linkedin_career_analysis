@@ -20,11 +20,11 @@ Aim to analysis keywords in LinkedIn profile to improve personal profile. Follow
 <tr>
 <td colspan=1> <td colspan=1>Meng<td colspan=1>Elle <td colspan=1>
 <tr>
-<td colspan=1>Data Analyst <td colspan=1>&#9989; <td colspan=1>&#9989; <td colspan=1>&#x274C;
+<td colspan=1>Data Analyst <td colspan=1>&#9989; <td colspan=1>&#9989; <td colspan=1>&#9989;
 <tr>
 <td colspan=1>Data Engineer <td colspan=1>&#9989; <td colspan=1>&#9989; <td colspan=1> &#9989;
 <tr>
-<td colspan=1>Data Scientist <td colspan=1> &#9989;<td colspan=1>&#9989; <td colspan=1> &#x274C;
+<td colspan=1>Data Scientist <td colspan=1> &#9989;<td colspan=1>&#9989; <td colspan=1> &#9989;
 <tr>
 <td colspan=1>Software Engineer <td colspan=1>&#9989;<td colspan=1>Doing <td colspan=1>&#9989;
  
